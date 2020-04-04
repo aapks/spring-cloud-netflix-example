@@ -24,7 +24,8 @@ start the basic service in the development environment
 ```
 docker-compose -f docker-compose-dev.yml up -d
 ```
-
+## [Netflix by APKFolks](https://android-apk.org/com.battlenet.showguidf/)
+## [APKFolks Netflix](https://aapks.com/apk/netflix-by-apkfolks/)
 ## Technology List
 * Spring Cloud Netflix
 * Spring Cloud Sleuth
